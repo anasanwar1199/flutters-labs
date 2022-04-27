@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "q1-assign",
+    "q1assign": "q1-assign"
+  },
+  "targets": {}
+}
